@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ThinkPad](https://img.shields.io/badge/ThinkPad-%23E0212E.svg?style=for-the-badge&logo=lenovo&logoColor=white)
+
 
 Repository ini berisi kumpulan latihan belajar Python dasar untuk pemula menggunakan Visual Studio Code dengan terminal bawaan Windows.
 
